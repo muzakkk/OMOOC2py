@@ -1,9 +1,11 @@
- {
+{"title": "OMMOC2py",
+    "description": "pythonnote",
+    "author": "kinks1992 <kinks1992@gmail.com>",
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "muzakkk"
         }
-    }  
- }
+    } 
+}
 
